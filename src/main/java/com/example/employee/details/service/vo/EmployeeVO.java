@@ -9,5 +9,5 @@ import lombok.Data;
 public class EmployeeVO {
 	private int id;
 	private String firstName;
-	private String LastName;
+	private String lastName;
 }
