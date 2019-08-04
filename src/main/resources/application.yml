@@ -1,0 +1,28 @@
+address:
+  doorNo: 14A
+  street: SEZ
+  area: ELCOT
+  city: Chennai
+
+employee:
+  id: 4102
+  firstName: John
+  lastName: Collazo
+  
+dept:
+  deptId: 101
+  deptName: Dev-Mobile-Api
+  
+management:
+  security:
+    enabled: false
+  context-path: /manage
+    
+security:
+  basic:
+    enabled: false
+    
+server:
+  port: 11401
+  context-path: /employee
+    
